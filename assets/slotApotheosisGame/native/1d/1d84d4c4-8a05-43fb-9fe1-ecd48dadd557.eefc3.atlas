@@ -1,0 +1,34 @@
+
+bg_light_h.png
+size: 1727,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_BG_L_h
+  rotate: true
+  xy: 2, 2
+  size: 375, 819
+  orig: 375, 819
+  offset: 0, 0
+  index: -1
+FX_spot01_2
+  rotate: false
+  xy: 1644, 203
+  size: 80, 76
+  orig: 87, 87
+  offset: 3, 5
+  index: -1
+MG_BG_L_h
+  rotate: true
+  xy: 823, 2
+  size: 375, 819
+  orig: 375, 819
+  offset: 0, 0
+  index: -1
+RB_Start_c04
+  rotate: true
+  xy: 1644, 281
+  size: 96, 81
+  orig: 102, 88
+  offset: 3, 3
+  index: -1
