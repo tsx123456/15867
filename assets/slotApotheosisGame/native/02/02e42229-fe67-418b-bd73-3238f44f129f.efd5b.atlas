@@ -1,55 +1,55 @@
 
 free_finish.png
-size: 559,234
+size: 258,528
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 RB_End_bar01
-  rotate: true
-  xy: 2, 2
-  size: 28, 226
+  rotate: false
+  xy: 227, 108
+  size: 30, 228
   orig: 30, 228
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 RB_End_bg01
-  rotate: true
-  xy: 2, 32
+  rotate: false
+  xy: 53, 338
   size: 200, 189
   orig: 200, 189
   offset: 0, 0
   index: -1
 RB_End_c01
-  rotate: false
-  xy: 193, 136
-  size: 333, 46
+  rotate: true
+  xy: 177, 1
+  size: 335, 48
   orig: 339, 59
-  offset: 3, 7
+  offset: 2, 6
   index: -1
 RB_End_c02
   rotate: true
-  xy: 528, 17
-  size: 165, 29
+  xy: 1, 14
+  size: 167, 31
   orig: 173, 31
-  offset: 4, 1
+  offset: 3, 0
   index: -1
 RB_End_txt
-  rotate: false
-  xy: 193, 184
-  size: 342, 48
+  rotate: true
+  xy: 1, 183
+  size: 344, 50
   orig: 346, 51
-  offset: 2, 1
+  offset: 1, 0
   index: -1
 eft_flig_02
   rotate: false
-  xy: 230, 6
-  size: 120, 128
+  xy: 53, 208
+  size: 122, 128
   orig: 128, 128
-  offset: 4, 0
+  offset: 3, 0
   index: -1
 eft_str02
   rotate: false
-  xy: 352, 11
-  size: 114, 123
+  xy: 34, 56
+  size: 115, 125
   orig: 116, 126
-  offset: 2, 2
+  offset: 1, 1
   index: -1
